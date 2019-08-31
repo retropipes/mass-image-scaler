@@ -1,0 +1,1 @@
+name = "mass-image-scaler"
